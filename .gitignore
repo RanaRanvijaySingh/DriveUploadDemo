@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/Users/rana.singh/StudioProjects/DriveUploadDemo/driveupload/client_secret.json
+/Users/rana.singh/StudioProjects/DriveUploadDemo/driveupload/credentials.json
